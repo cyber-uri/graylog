@@ -16,7 +16,7 @@ Install dependencies
 ```bash
   apt install apt-transport-https gnupg2 uuid-runtime pwgen curl dirmngr -y
 ```
-## Instalar JDK Java
+## Install JDK Java
 
 ```bash
   apt install openjdk-11-jre-headless -y
